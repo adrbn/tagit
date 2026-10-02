@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tagit"
+version = "1.0.0"
+description = "Finds a song's real metadata on Deezer, Apple, MusicBrainz and LRCLIB, shows it, and writes it into the file on a yes."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "adrbn" }]
+requires-python = ">=3.9"
+dependencies = [
+    "mutagen>=1.45",
+    "certifi",
+    "tomli>=1.1; python_version < '3.11'",
+]
+keywords = ["music", "tags", "metadata", "id3", "flac", "replaygain", "lyrics", "cli"]
+classifiers = [
+    "Environment :: Console",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Topic :: Multimedia :: Sound/Audio",
+]
+
+[project.urls]
+Homepage = "https://github.com/adrbn/tagit"
+Issues = "https://github.com/adrbn/tagit/issues"
+
+[project.scripts]
+tagit = "tagit:main"
+
+[tool.setuptools]
+py-modules = ["tagit"]
