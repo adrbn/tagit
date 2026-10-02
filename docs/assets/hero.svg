@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 726 611" width="726" height="611" role="img" aria-label="tagit in a terminal: it matches an MP3 on Deezer, Apple and LRCLIB, lists 21 tag changes and writes them; a second run with -n then finds every tag already matches.">
+<style>
+  .b { animation: swap 16s ease-in-out infinite; }
+  @keyframes swap { 0%, 43.75% { opacity: 0 } 50%, 93.75% { opacity: 1 } 100% { opacity: 0 } }
+  @media (prefers-reduced-motion: reduce) { .b { animation: none; } }
+</style>
+<defs><clipPath id="w"><rect width="726" height="611" rx="12"/></clipPath></defs>
+<g clip-path="url(#w)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13">
+  <rect width="726" height="611" fill="#0d1117"/>
+  <rect width="726" height="36" fill="#161b22"/>
+  <line x1="0" y1="35.5" x2="726" y2="35.5" stroke="#30363d"/>
+  <circle cx="20" cy="18.0" r="6" fill="#ff5f57"/><circle cx="40" cy="18.0" r="6" fill="#febc2e"/><circle cx="60" cy="18.0" r="6" fill="#28c840"/>
+  <text x="363" y="22.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#7d8590">tagit</text>
+  <g><text y="69.0" xml:space="preserve"><tspan x="20" fill="#3fb950" font-weight="700">$</tspan><tspan x="35.6" fill="#e6edf3">tagit "Otto Knows – My Lover.mp3"</tspan></text>
+<text y="87.0" xml:space="preserve"></text>
+<text y="105.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3" font-weight="700">━━ Otto Knows – My Lover.mp3</tspan><tspan x="238.4" fill="#7d8590">   MP3 · 3:03</tspan></text>
+<text y="123.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  looking for  otto knows — My Lover (Official Audio)</tspan></text>
+<text y="141.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  match  </tspan><tspan x="90.2" fill="#e6edf3" font-weight="700">Otto Knows — My Lover</tspan><tspan x="254.0" fill="#e6edf3">  </tspan><tspan x="269.6" fill="#7d8590">My Lover (single, 2026-09-25) · 3:03 vs 3:03 · </tspan><tspan x="636.2" fill="#3fb950">100%</tspan></text>
+<text y="159.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">✓ Deezer</tspan><tspan x="98.0" fill="#e6edf3">  </tspan><tspan x="113.6" fill="#3fb950">✓ Apple (US)</tspan><tspan x="207.2" fill="#e6edf3">  </tspan><tspan x="222.8" fill="#7d8590">✗ MusicBrainz</tspan><tspan x="324.2" fill="#e6edf3">  </tspan><tspan x="339.8" fill="#7d8590">✗ LRCLIB</tspan><tspan x="402.2" fill="#e6edf3">  </tspan><tspan x="417.8" fill="#3fb950">✓ ReplayGain (-10.2 LUFS)</tspan></text>
+<text y="177.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#d29922">~</tspan><tspan x="43.4" fill="#e6edf3"> Title            </tspan><tspan x="183.8" fill="#7d8590">My Lover (Official Audio)</tspan><tspan x="378.8" fill="#e6edf3">  → </tspan><tspan x="410.0" fill="#d29922">My Lover</tspan></text>
+<text y="195.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Artist           otto knows</tspan></text>
+<text y="213.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Artists          </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">Otto Knows</tspan></text>
+<text y="231.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Album artist     </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">Otto Knows</tspan></text>
+<text y="249.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Album            </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">My Lover</tspan></text>
+<text y="267.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Track            </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">1</tspan></text>
+<text y="285.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Tracks           </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">1</tspan></text>
+<text y="303.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Disc             </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">1</tspan></text>
+<text y="321.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Discs            </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">1</tspan></text>
+<text y="339.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Date             </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">2026-09-25</tspan></text>
+<text y="357.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#d29922">~</tspan><tspan x="43.4" fill="#e6edf3"> Genre            </tspan><tspan x="183.8" fill="#7d8590">Electronic</tspan><tspan x="261.8" fill="#e6edf3">                 → </tspan><tspan x="410.0" fill="#d29922">Dance</tspan></text>
+<text y="375.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Release type     </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">single</tspan></text>
+<text y="393.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Label            </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">Lilly Era</tspan></text>
+<text y="411.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Copyright        </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">℗ 2026 Lilly Era</tspan></text>
+<text y="429.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> ISRC             </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">GXGUF2600460</tspan></text>
+<text y="447.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Barcode          </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">5054290231755</tspan></text>
+<text y="465.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Media            </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">Digital Media</tspan></text>
+<text y="483.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> RG track gain    </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">-7.80 dB</tspan></text>
+<text y="501.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> RG track peak    </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">1.023293</tspan></text>
+<text y="519.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> RG album gain    </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">-7.80 dB</tspan></text>
+<text y="537.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> RG album peak    </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">1.023293</tspan></text>
+<text y="555.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">+</tspan><tspan x="43.4" fill="#e6edf3"> Cover            </tspan><tspan x="183.8" fill="#7d8590">—</tspan><tspan x="191.6" fill="#e6edf3">                          → </tspan><tspan x="410.0" fill="#3fb950">1400×1400 from Apple, 586 KB</tspan></text>
+<text y="573.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  write 21 changes? [Y/n] [c]hoose another match [s]earch again [e]dit [q]uit: y</tspan></text>
+<text y="591.0" xml:space="preserve"><tspan x="20.0" fill="#3fb950">  ✓ written</tspan></text></g>
+  <g class="b" opacity="0"><rect y="36" width="726" height="575" fill="#0d1117"/><text y="69.0" xml:space="preserve"><tspan x="20" fill="#3fb950" font-weight="700">$</tspan><tspan x="35.6" fill="#e6edf3">tagit -n "Otto Knows – My Lover.mp3"</tspan></text>
+<text y="87.0" xml:space="preserve"></text>
+<text y="105.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3" font-weight="700">━━ Otto Knows – My Lover.mp3</tspan><tspan x="238.4" fill="#7d8590">   MP3 · 3:03</tspan></text>
+<text y="123.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  looking for  Otto Knows — My Lover</tspan></text>
+<text y="141.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  match  </tspan><tspan x="90.2" fill="#e6edf3" font-weight="700">Otto Knows — My Lover</tspan><tspan x="254.0" fill="#e6edf3">  </tspan><tspan x="269.6" fill="#7d8590">My Lover (single, 2026-09-25) · 3:03 vs 3:03 · </tspan><tspan x="636.2" fill="#3fb950">100%</tspan></text>
+<text y="159.0" xml:space="preserve"><tspan x="20.0" fill="#e6edf3">  </tspan><tspan x="35.6" fill="#3fb950">✓ Deezer</tspan><tspan x="98.0" fill="#e6edf3">  </tspan><tspan x="113.6" fill="#3fb950">✓ Apple (US)</tspan><tspan x="207.2" fill="#e6edf3">  </tspan><tspan x="222.8" fill="#7d8590">✗ MusicBrainz</tspan><tspan x="324.2" fill="#e6edf3">  </tspan><tspan x="339.8" fill="#7d8590">✗ LRCLIB</tspan><tspan x="402.2" fill="#e6edf3">  </tspan><tspan x="417.8" fill="#3fb950">✓ ReplayGain (-10.2 LUFS)</tspan></text>
+<text y="177.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Title            My Lover</tspan></text>
+<text y="195.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Artist           Otto Knows</tspan></text>
+<text y="213.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Artists          Otto Knows</tspan></text>
+<text y="231.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Album artist     Otto Knows</tspan></text>
+<text y="249.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Album            My Lover</tspan></text>
+<text y="267.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Track            1</tspan></text>
+<text y="285.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Tracks           1</tspan></text>
+<text y="303.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Disc             1</tspan></text>
+<text y="321.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Discs            1</tspan></text>
+<text y="339.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Date             2026-09-25</tspan></text>
+<text y="357.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Genre            Dance</tspan></text>
+<text y="375.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Release type     single</tspan></text>
+<text y="393.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Label            Lilly Era</tspan></text>
+<text y="411.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Copyright        ℗ 2026 Lilly Era</tspan></text>
+<text y="429.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = ISRC             GXGUF2600460</tspan></text>
+<text y="447.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Barcode          5054290231755</tspan></text>
+<text y="465.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = Media            Digital Media</tspan></text>
+<text y="483.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = RG track gain    -7.80 dB</tspan></text>
+<text y="501.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = RG track peak    1.023293</tspan></text>
+<text y="519.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = RG album gain    -7.80 dB</tspan></text>
+<text y="537.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">  = RG album peak    1.023293</tspan></text>
+<text y="555.0" xml:space="preserve"><tspan x="20.0" fill="#7d8590">    Cover            1400×1400   (kept)</tspan></text>
+<text y="573.0" xml:space="preserve"><tspan x="20.0" fill="#3fb950">  tags already match</tspan></text></g>
+</g>
+<rect x=".5" y=".5" width="725" height="610" rx="11.5" fill="none" stroke="#30363d"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="64" viewBox="0 0 205 64" role="img" aria-label="Configure: Optional send step">
+  <defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".2"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+  <rect width="205" height="64" rx="16" fill="#24292f"/>
+  <rect width="205" height="64" rx="16" fill="url(#s)"/>
+  <rect x=".5" y=".5" width="204" height="63" rx="15.5" fill="none" stroke="#fff" stroke-opacity=".25"/>
+  <g transform="translate(34 33)" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle r="3.5"/><path d="M0 -10V-7M0 7V10M-10 0H-7M7 0H10M-7 -7L-5 -5M5 5L7 7M-7 7L-5 5M5 -5L7 -7"/><circle r="7" fill="#fff" fill-opacity=".12"/></g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" fill="#fff">
+    <text x="60" y="30" font-size="17" font-weight="700">Configure</text>
+    <text x="60" y="48" font-size="12.5" font-weight="500" fill-opacity=".9">Optional send step</text>
+  </g>
+</svg>
